@@ -132,7 +132,7 @@ Feel free to fork this repository and submit pull requests.
 
 ## 📧 Contact
 
-**Authors**: [Md. Shadat Hossain](mailto:shadathossan3500@gmail.com) & Sahinur Islam
+**Authors**: [Al-Amin](mailto:alamin50cse.miu@gmail.com)
 
 If you have any questions, feel free to reach out!
 
